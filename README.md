@@ -69,8 +69,7 @@ The code of pacman game is highly precised and run with four keys 'w'up,'s'down,
 
 ## Usage
 
-it improves your the coding skills.Many new libraries have used like #include<ctime>,
-#include<stdlib.h>,#include<string>.Helps in deep understanding of data types like string and char and their usage.
+it improves your the coding skills.Many new libraries have used like #include<ctime>,#include<stdlib.h>,#include<string>.It Helps in deep understanding of data types like string and char and their usage.
 
 
 
@@ -81,7 +80,7 @@ it improves your the coding skills.Many new libraries have used like #include<ct
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
