@@ -5,7 +5,7 @@ The code of pacman game is highly precised and run with four keys 'w'up,'s'down,
 
 
 <p align="center">
-  <img width="720" height="480" src="https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/blob/master/New%20Project.mp4">
+  <img width="720" height="480" src="https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/blob/master/ezgif.com-crop.gif">
 </p>
 
        
