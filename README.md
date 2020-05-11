@@ -69,7 +69,7 @@ The code of pacman game is highly precised and run with four keys 'w'up,'s'down,
 
 ## Usage
 
-it improves your the coding skills.Many new libraries have used like #include<ctime>,#include<stdlib.h>,#include<string>.It Helps in deep understanding of data types like string and char and their usage.
+it improves your the coding skills.Many new libraries have used like ctime,stdlib.h and string.It Helps in deep understanding of data types like string and char and their usage.
 
 
 
