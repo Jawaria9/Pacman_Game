@@ -4,7 +4,7 @@ The code of pacman game is highly precised and run with four keys 'w'up,'s'down,
 # code
 repositories {
     mavenCentral()
-    maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+    maven { url "https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/blob/master/media1/ezgif.com-crop.gif" }
 }
 dependencies {
     implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.+'
