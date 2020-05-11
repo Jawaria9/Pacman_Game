@@ -2,7 +2,7 @@
 The code of pacman game is highly precised and run with four keys 'w'up,'s'down,'d'left,'a'right.There is a pacman who eat foodballs.And a ghost who follow and caught pacman leading to end the game. 
 
 # code
-(<p align="center">
+<p align="center">
   <img width="720" height="480" src="https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/blob/master/media1/ezgif.com-crop.gif">
 </p>
 
