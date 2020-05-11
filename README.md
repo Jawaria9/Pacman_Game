@@ -15,7 +15,7 @@ The code of pacman game is highly precised and run with four keys 'w'up,'s'down,
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Features](#Features)
+* [Features]
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
