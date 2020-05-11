@@ -2,8 +2,12 @@
 The code of pacman game is highly precised and run with four keys 'w'up,'s'down,'d'left,'a'right.There is a pacman who eat foodballs.And a ghost who follow and caught pacman leading to end the game. 
 
 # code
+repositories {
+    mavenCentral()
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+}
 dependencies {
-    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.19'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.+'
 }
 
 <p align="center">
