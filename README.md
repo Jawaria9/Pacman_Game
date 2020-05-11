@@ -38,90 +38,46 @@ The code of pacman game is highly precised and run with four keys 'w'up,'s'down,
 -   Ghost moves automatically due to randome function use
 
 
-## To Do
--  Sending requests
--  Sending Messages
--  Notification checking
--  Uploading a Post
--  MultiThreading
+
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-## Demo
-![Demo](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/blob/master/MyVideo.gif)
+
 
 ## Code
-![Code](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/blob/master/Code_snap.PNG)
+![Code](https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/blob/master/media1/code.png)
 
-## Profiles list to input i automated more then 5k Profiles with this bot.
-![profiles_input](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/blob/master/Profiles_snaps.PNG)
 
 
 ### Built With
-* [Python](https://www.python.org/)
-* [Beautifullsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Multilogin Apis](https://multilogin.com/)
-* [luminati Proxies](https://luminati.io/l)
-* [Selenium](https://selenium-python.readthedocs.io/)
-* [request](https://docs.python.org/3/library/urllib.html)
-
+-   foodballs
+-   pacman(C)
+-   Ghost(G)
+-   background walls
+-   pacman moves with four buttons
+    'w'up,
+    's'down,
+    'd'left,
+    'a'right
+-   if pacman done with eating all foodballs, you won
+-   if ghost caught pacman, game over
+-   Ghost moves automatically due to randome function use
 
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-### Prerequisites
-
-### Installation
-1. Clone the repo
-```sh
-git clone https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies.git
-```
-
-2. Install python packages
-```sh
-pip install selenium,request,Beautifullsoup
-
-I am asuming you already install and set up multilogin and Proxies.
-```
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-YOu can warm up your profiles, automate all facebook action using this bot.
-The bot is for warming up facebook profile means it uses facebook on behalf of humans for generating a pattern to facebook algorithm so it knows that Profiles are active.
-BlackBox already warms up more than 15000 Facebook profiles using Multilogin.
+it improves your the coding skills.Many new libraries have used like #include<ctime>,
+#include<stdlib.h>,#include<string>.Helps in deep understanding of data types like string and char and their usage.
 
-## Bot has follwoing functaionalities in it.
-```sh
-1. Random wait
-2. Scrolling
-3. Start where it left (Profiles)
-4. story_seeing()
-5. clicking_on_pics
-6. opening_ad()
-7. clicking_on_peoples_profile()
-8. clicking_on_comments()
-9. playing_video()
-10. Read csv
-11. Account Blocking check
-12. Keeping track of every Profile
-13. Sending requests
-14. Sending Messages
-15. Notification checking
-16. do_like()
-17. do_comments()
-generating a pattern to facebook algorithm so it knows that Profiles are active
-```
+
+
 
 ## Includes Files
-1. BlacBot.exe for windows
-1. Fullbot.py (Full bot)
-2. Botlikecomment.py (comment and like code)
-2. ico.ico 
-1. profiles.csv (for input Multilogin profiles)
-2. continue.txt (start where left) 
+1. cpp file
+
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -141,53 +97,4 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-## Contact me
-
-<table>
-  <tr>
-    <th>
-      <ahref="http://zeeshanahmad.me/" >
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90">
- </a> </th>
-    <th>
-      <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
- </a> </th>
-    <th>
-      <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="90">
- </a> </th>
-    <th>
-      <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit41.jpg" alt="Logo" width="182  " height="90">
- </a> </th>
-    </tr>
- </table>
-<table>
-  <tr>
-    <th>
-      <a href="https://www.upwork.com/freelancers/~0180a61cf01f9bc71d" >
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/download.png" alt="Logo" width="182" height="80">
- </a> </th>
-    <th>
-      <a href="https://www.linkedin.com/in/zeeshan-ahmad-87098b105/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/linked-in-3200.jpg" alt="Logo" width="182" height="80">
- </a> </th>
-    <th>
-      <a href="https://www.kaggle.com/zeeshanahmad4">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/Kaggle_logo.png" alt="Logo" width="182" height="80">
- </a> </th>
-    <th>
-      <a href="https://twitter.com/Zeeshan_Ahmad6">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/twitter-logo-png-open-2000.png" alt="Logo" width="182" height="80">
- </a> </th>
-    </tr>
- </table>
-
-
-
-
-
 
