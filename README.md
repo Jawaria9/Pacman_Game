@@ -24,19 +24,19 @@ The code of pacman game is highly precised and run with four keys 'w'up,'s'down,
 
 ## Features
 
--   Dynamic Scrolling
--   Random Delays
--   Watching Facebook stories
--   Clicking on Random Posts
--   Clicking on sponsored ads(ad will open in a new windows)
--   Checking Users Profiles
--   Reading Comments
--   Wachting Videos
--   Doing Likes
--   Doing Comments
--   Random actions for every Profiles
--   Handling exceptions or blocked Profiles
--   Track of every Profile
+-   foodballs
+-   pacman(C)
+-   Ghost(G)
+-   background walls
+-   pacman moves with four buttons
+    'w'up,
+    's'down,
+    'd'left,
+    'a'right
+-   if pacman done with eating all foodballs, you won
+-   if ghost caught pacman, game over
+-   Ghost moves automatically due to randome function use
+
 
 ## To Do
 -  Sending requests
